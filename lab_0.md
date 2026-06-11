@@ -913,5 +913,5 @@ Lastname_Firstname_Lab0/
 ├── environment_verification.txt
 ├── colab_practice.ipynb
 ├── lab0_exercises.ipynb
-└── README.md (optional summary)
+└── README.md (optional summary and the link to the github repository in Exercise 2)
 ```
